@@ -2,7 +2,7 @@ package com.summer;
 
 import java.util.Scanner;
 
-public class Main4 {
+public class MaxOfTwoNumbers {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Emter a : ");

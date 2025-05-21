@@ -1,6 +1,6 @@
 package com.summer;
 
-public class Main1 {
+public class HelloWorld {
 	
 	public static void main(String [] args) {
 		

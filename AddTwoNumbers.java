@@ -2,7 +2,7 @@ package com.summer;
 
 import java.util.Scanner;
 
-public class Main2 {
+public class AddTwoNumbers {
 	
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
